@@ -42,9 +42,9 @@ python expense_tracker.py
 ```
 
 
-#Requirements
+##Requirements
 Python 3.x
 matplotlib (for data visualization)
 
-#Contribution
+##Contribution
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
